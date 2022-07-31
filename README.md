@@ -9,6 +9,6 @@ Projeto desenvolvido durante o curso da B7web.
 # Instalação
 -npm install
 
-#Para rodar
+# Para rodar
 
 -npm run dev
